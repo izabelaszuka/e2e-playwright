@@ -9,7 +9,7 @@ To init repository you have to have `node` installed and run
 To run tests in single run plese type
 `npm run test`
 
-## Reporst
+## Reports
 To generate reports in the browser
 `npm run show-report`
 
